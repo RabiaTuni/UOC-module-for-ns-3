@@ -9,7 +9,7 @@ Installation guide: https://www.nsnam.org/wiki/Installation (Follow the instruct
 Once an example script is made and compiles, to run this script it must be in the scratch directory:
 To get to this directory run the cmd: cd repos/ns-3-allinone/ns-3-dev/scratch (path is not fixed also it depends on which ns-3 version you install)
 
-ns-3 file documentation: https://www.nsnam.org/doxygen/index.html (gives an idead of ns-3 classes structure)
+ns-3 file documentation: https://www.nsnam.org/doxygen/index.html (gives an idea of ns-3 classes structure)
 
 Steps to install UOC module in ns-3: 
 
